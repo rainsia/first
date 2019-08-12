@@ -1,1 +1,1 @@
-This is my first real experimental git repository.
+This is our first real experimental git repository.
